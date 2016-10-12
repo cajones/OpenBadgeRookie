@@ -1,0 +1,7 @@
+{
+    "name": "Rookie Badge Issuer",
+    "description": "Issues great new Open Badges to self.",
+    "image": "http://openbadgerookie.azurewebsites.net/rookie-badge-issuer.png",
+    "criteria": "http://openbadgerookie.azurewebsites.net/rookie-badge-criteria.html",
+    "issuer": "http://openbadgerookie.azurewebsites.net/badge-issuer.json"
+}
